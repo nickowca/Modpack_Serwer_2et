@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "minecraft/servers.dat"
-hash = "3f96dad5d43ed7638ea7ad9d98feb34ff43ff098dade4f238a24865f9a6c2a1a"
+hash = "925e1426ffb2b483735b66eec5efca9fcab64bbad1f29b540c5cc216134f5e4b"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
