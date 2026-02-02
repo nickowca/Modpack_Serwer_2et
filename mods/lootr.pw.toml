@@ -1,0 +1,13 @@
+name = "Lootr"
+filename = "lootr-fabric-1.21.11-1.19.33.100.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EltpO5cN/versions/NKsNpTwe/lootr-fabric-1.21.11-1.19.33.100.jar"
+hash-format = "sha512"
+hash = "0e0e428ed3936fe705bc49b5392eddfd87bf3722f2ec5fb780091b4341bdef72a5f879910d03d1cd8998608579157d989d9de91b67035081a0abde3c07d555a9"
+
+[update]
+[update.modrinth]
+mod-id = "EltpO5cN"
+version = "NKsNpTwe"
