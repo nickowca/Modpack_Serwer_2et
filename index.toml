@@ -220,6 +220,11 @@ hash = "eebd94d78c58284522d80c5c4a092971a3ab706926fb53b6293f6024b6e28606"
 metafile = true
 
 [[files]]
+file = "mods/modflared.pw.toml"
+hash = "54d730390867027aa0d4de585d8245377b91e96395e3fef755c4127003b92a3b"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "44f00c1a0e3d4f8717e805c30c862a597e7856472e72637800fd1a38d73fbd08"
 metafile = true
