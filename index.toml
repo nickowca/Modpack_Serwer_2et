@@ -50,6 +50,16 @@ hash = "2515110b3990de9703158168c22b4ecafc739c399e421daedbfba24442224ba5"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "3574ca8f34cf9e005046179d449af1abd0c7475d3889d2cb2bc187ff28b360d1"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "551d9247d8cbba099f84e416ac50fe322f82401eef6800d3bfa159be521acb9b"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
@@ -57,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "a5f67311e64ea67e8097c1fdd4d20cf11e1c5236334b5becabad7dabdae975db"
+metafile = true
+
+[[files]]
+file = "mods/cobweb.pw.toml"
+hash = "69a96afb665b11531714611ba692afd5b012a3a463ef695dd555b3f6ba41a1e7"
 metafile = true
 
 [[files]]
@@ -87,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "6f3aa6e9d209a7eaa2c373294c0e59cdf116e498d43e7e57b76844f2bc368a02"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "728a2c9d389440f1f8e80324ff23824135a3baf86bef5752ba6d8cf1c53d1ac7"
 metafile = true
 
 [[files]]
@@ -205,6 +225,11 @@ hash = "44f00c1a0e3d4f8717e805c30c862a597e7856472e72637800fd1a38d73fbd08"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "4b1b0abcb43696b313acbd111700c4dad8d808bd69a06d0abb10615acacdf16b"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "5f252eb4e95f3028398a7148bcfd8dfaeeeb69d573c5ab34c2cdf54f2a29478b"
 metafile = true
@@ -212,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "548a21f091f48b62c91d69a3857648abc6cc70ea18ebeb2d0b649a6576773a27"
+metafile = true
+
+[[files]]
+file = "mods/pyrotechnic-elytra.pw.toml"
+hash = "b505aac005dd2ed561da30291a1ecfd5adcbae939b383730f57764c0e30de7d0"
 metafile = true
 
 [[files]]
@@ -287,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "147236c9b21df25b05d0715f21faf8c9b89dfa7af9d157c532f8e94887d47a65"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "9855647913717209a9d43d0182ebc8c89a03a74455ee6cffeeafd77374cc193e"
 metafile = true
 
 [[files]]
