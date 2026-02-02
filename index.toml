@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "minecraft/servers.dat"
+hash = "3f96dad5d43ed7638ea7ad9d98feb34ff43ff098dade4f238a24865f9a6c2a1a"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "fc8ffe66dc0c7eb55cf2ce38d1ae4bf1c4cdfbfdcda2636b1cd140c851e03cc5"
 metafile = true
