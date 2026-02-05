@@ -235,6 +235,16 @@ hash = "4b1b0abcb43696b313acbd111700c4dad8d808bd69a06d0abb10615acacdf16b"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "467eadd218b315067bd37e3af44d7719f77045cd6d3059bbf89e2ee7ce6b8e4f"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "5f252eb4e95f3028398a7148bcfd8dfaeeeb69d573c5ab34c2cdf54f2a29478b"
 metafile = true
