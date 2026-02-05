@@ -155,8 +155,8 @@ hash = "716b671d0b15ea17c788c571620eac83207bb2b6e8dbe0d33319838478f21efc"
 metafile = true
 
 [[files]]
-file = "mods/discord-mc-chat.pw.toml"
-hash = "ba8b5da91075ac957c34a56cf6a3ab34616b6d6c998f59130cc73476012066d4"
+file = "mods/dcintegration.pw.toml"
+hash = "73c73a2785d636ad4cfd93e8aae02887a88adf0afb707fd7b19e075e5c2b1223"
 metafile = true
 
 [[files]]
