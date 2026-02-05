@@ -1,0 +1,13 @@
+name = "Simple Voice Chat Discord Bridge"
+filename = "voicechat-discord-fabric-1.21.11-3.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/S1jG5YV5/versions/gDce0jOj/voicechat-discord-fabric-1.21.11-3.1.2.jar"
+hash-format = "sha512"
+hash = "b8f6da7dd3eca3a02b14fbcc999addf86c90b23af2d5d2f7cdb5b0afecbb935ad90c1ce5975c39099dbf0623fe0630e2e18f2449d67fe8d61619be3ef4ede26b"
+
+[update]
+[update.modrinth]
+mod-id = "S1jG5YV5"
+version = "gDce0jOj"

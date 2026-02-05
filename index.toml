@@ -125,6 +125,11 @@ hash = "a275868eb0eb287604aa5227fa04b121203497347e73bfb9144b4be8bd8cf462"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "c4aecd36cc2a07b48538ab2eced4eabdc1b53af9e76ee91581921db2ed689c7e"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "e661900027e02f1d44f54559e8d67a0b3b507b831be4eb05ab73a0133b22791e"
 metafile = true
@@ -147,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "716b671d0b15ea17c788c571620eac83207bb2b6e8dbe0d33319838478f21efc"
+metafile = true
+
+[[files]]
+file = "mods/discord-mc-chat.pw.toml"
+hash = "ba8b5da91075ac957c34a56cf6a3ab34616b6d6c998f59130cc73476012066d4"
 metafile = true
 
 [[files]]
@@ -380,6 +390,11 @@ hash = "a4c742db2f87bd02aa5dfd47faab025d985a9e21e69c72dd923a643a7a908513"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat-discord-bridge.pw.toml"
+hash = "9a581c828130573957875af0da315c7c60a92f5ad0a629431c816c293bc622b2"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "9ff1a261860fcb16a7c7f124d738abcdfc1297363412d237540685003ff04d6b"
 metafile = true
@@ -427,6 +442,11 @@ metafile = true
 [[files]]
 file = "mods/traverse.pw.toml"
 hash = "7835db12ba5059aea539e114876cc498344a5587e4130e2039861731e7003655"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "d25e68bfaa4f0adaf716738827256d0b7d78889852fc6cef667c6c2fe4326526"
 metafile = true
 
 [[files]]
