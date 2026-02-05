@@ -410,6 +410,11 @@ hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "c073f13897a838e3c409e46b8a1d8cb510d6a6584dd815aeadaf4886f1779513"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "f19a743dcab0927ec66da55e57993563fc539c3b50733104152da71c18f8abf4"
 metafile = true
