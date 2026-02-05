@@ -1,0 +1,13 @@
+name = "Cardboard"
+filename = "Cardboard-1.21.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MLYQ9VGP/versions/zyIhdrBb/Cardboard-1.21.11.jar"
+hash-format = "sha512"
+hash = "f701ec24fbab6f06afac8dc369abd2575cf6b7e45de970053b1ed8abd167cc421f6b4c0a7bee134147839e32a0ca765e3d4fd156f7654db6eec51608c4fb3d03"
+
+[update]
+[update.modrinth]
+mod-id = "MLYQ9VGP"
+version = "zyIhdrBb"
