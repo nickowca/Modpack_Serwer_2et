@@ -290,11 +290,6 @@ hash = "f6cd3f83b4a4db5abf5aa33c0f637e01af16e537a84f20feb14f509d42bc40cd"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "16a351dac4db6e5b8035f56090710a227d33482797ef5bcc09a367099304be74"
-metafile = true
-
-[[files]]
 file = "mods/silk.pw.toml"
 hash = "a4c742db2f87bd02aa5dfd47faab025d985a9e21e69c72dd923a643a7a908513"
 metafile = true
