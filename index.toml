@@ -40,11 +40,6 @@ hash = "a8f073ab0640d9e501fe3fc95d282306000fd6eab3186fd682269c0d0913b307"
 metafile = true
 
 [[files]]
-file = "mods/cardboard.pw.toml"
-hash = "88e27e28a8267d6c6601d2faf74d75815aa171a92a79b7ec930fc19c1c830d87"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "56801c8c848bb2bc6bd6cf5c81ac3eb5b14d2e8be53aa11358e07bd3babf3b78"
 metafile = true
@@ -180,11 +175,6 @@ hash = "1e2034f733c04aad97e685219b275bdf5f959854362d11a80347822216f05671"
 metafile = true
 
 [[files]]
-file = "mods/icommon.pw.toml"
-hash = "44ecb5c09a3810f6c605f4e403e3c42c0ee40da91ccd3748d9a02fee746f6ce3"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
 metafile = true
@@ -287,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "f6cd3f83b4a4db5abf5aa33c0f637e01af16e537a84f20feb14f509d42bc40cd"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "16a351dac4db6e5b8035f56090710a227d33482797ef5bcc09a367099304be74"
 metafile = true
 
 [[files]]
