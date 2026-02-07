@@ -1,0 +1,13 @@
+name = "No Portals"
+filename = "no-portals-1.21.11-1.1.8.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZzkyvOit/versions/2dW9seoH/no-portals-1.21.11-1.1.8.jar"
+hash-format = "sha512"
+hash = "7c2e08c526f1a8428711926151ed9b98b931c01770cd8c3689f85c3a54f4c848bdeacc720d0f9f34878c16d8c178628220cc38f5b961a316cba421cd71beab40"
+
+[update]
+[update.modrinth]
+mod-id = "ZzkyvOit"
+version = "2dW9seoH"

@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "797ce11cc98bb69129e092e5048ff303de39ceb48633deb4864c6c4005b29b77"
+hash = "3df4bc92b75a860d95fa93b57ed08aec847727d7fce154395932a53296c5c1ce"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "3574ca8f34cf9e005046179d449af1abd0c7475d3889d2cb2bc187ff28b360d1"
+hash = "2fa6655542b90a86aa6a27219aa662bddd1b38a13bbb1f5a35eb49b1920478d6"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "61a62efc0e0534f8e9729aa2411b918a1e7593f496854e9295b012b0cc75eec0"
+hash = "210bc26d6dde6e050cbbf9f6834d77199be13f6afbed05ce1d51716f458ad8c1"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
+hash = "b0e40f535aa6227847461d27a75dd95cada1566fa77f39d86916de2758031b2f"
 metafile = true
 
 [[files]]
@@ -201,12 +201,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "241cece83d6a3c7c0338a9b625972ee25747d14684810778bc64d9613f7a49a1"
+hash = "45abf05e1cc90006aeb65e4e1bbe97da5a1984f547ea8028a077dae68af0ac11"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "b748f3c5782acd14bc088ab235b949bd3237a246c7221e06b7bc25d9310daa73"
+hash = "c5103bd5c497d707072363d1bb994697a62774b8bc79ad5a8c3b33313f824948"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
+hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "eebd94d78c58284522d80c5c4a092971a3ab706926fb53b6293f6024b6e28606"
+hash = "f318ac7cf58d3a90b2a5b5dc75e56030a7a046e90a99d76d2f3a3f12dcd9ecd5"
 metafile = true
 
 [[files]]
@@ -350,8 +350,13 @@ hash = "467eadd218b315067bd37e3af44d7719f77045cd6d3059bbf89e2ee7ce6b8e4f"
 metafile = true
 
 [[files]]
+file = "mods/no-portals.pw.toml"
+hash = "fd4f31a4f698ca86091b0fc36914f934ca7e15493d97a2b74282303e427baa41"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "0e15c2587b1419c823cb86b1ba72623d4654faad65721b4a9a6ac93f14f14263"
+hash = "d4bcbd0bae24e8cbcd318a2879cb481ef0c73d18ac82ceb1e99d69479f8f1c08"
 metafile = true
 
 [[files]]
@@ -361,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "5f252eb4e95f3028398a7148bcfd8dfaeeeb69d573c5ab34c2cdf54f2a29478b"
+hash = "51c5dc79381f5e788aa78211c82a8294ec8b1313a5f8cc584fba1e62664dea81"
 metafile = true
 
 [[files]]
@@ -516,12 +521,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "2c6ad75996654f04dfe44a15d64abd5c2ae1d9fddca6d3e24cab236f3d589195"
+hash = "d1857ac4affba1c95f0053077f5723cf923a778f4286f868d35c4751366ef233"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "e9395a06548b7cedb1d8df2a80569b858ea4ffe49d8cb31fdc363328658319f3"
+hash = "338c5720ac9752d54f36770947937a47e11f3c79124433e8aedafbbb3623ba92"
 metafile = true
 
 [[files]]
