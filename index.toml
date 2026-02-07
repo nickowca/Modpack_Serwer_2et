@@ -305,6 +305,11 @@ hash = "0fcb21a2580ad82270c404aa36e042926a7f35b0151f785bd6c6afce23e6edc4"
 metafile = true
 
 [[files]]
+file = "mods/minimotd.pw.toml"
+hash = "072589c2436b05489b0e8271d7b2bd51b8e47de9b319541025cd49d412cc6cb1"
+metafile = true
+
+[[files]]
 file = "mods/modflared.pw.toml"
 hash = "54d730390867027aa0d4de585d8245377b91e96395e3fef755c4127003b92a3b"
 metafile = true
@@ -352,6 +357,16 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "6a6eb01c3a425f9dd78dcec3337898cc2b1ac8e6e7dec2f209e63b75ae55e7f4"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "664d93de16b7443858bda9d79e040e7c06c1453df9b9941382e8971380ab7637"
 metafile = true
 
 [[files]]
@@ -412,6 +427,16 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "c073f13897a838e3c409e46b8a1d8cb510d6a6584dd815aeadaf4886f1779513"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "d339c1243682f47b0500ed2cb7334af2114c76ec8ea2f64d1c261ff75324775b"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "39472a622a8583b847fe981f4c7608ee0768c2f30d0a11bb47fda6c0ad2a4add"
 metafile = true
 
 [[files]]

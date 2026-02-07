@@ -1,12 +1,12 @@
 name = "Modpack Serwer 2et"
 author = "Nikodem T"
-version = "0.0.2g"
+version = "0.0.3d"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c43e80f569abf17b39b45e3e5f05e2b3d6560d7371405204c881a95e20ba7218"
+hash = "4a5181d51cadb0a846f97534d90b6e9cba00bde0bab649b4b5fdad31b9f06117"
 
 [versions]
 fabric = "0.18.4"
