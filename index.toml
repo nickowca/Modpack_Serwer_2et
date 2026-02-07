@@ -105,6 +105,11 @@ hash = "69a96afb665b11531714611ba692afd5b012a3a463ef695dd555b3f6ba41a1e7"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "c2a61b492dd0d7a156e15b7572adb40552b94c09658cc3c6d7faf99288d094c7"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "210bc26d6dde6e050cbbf9f6834d77199be13f6afbed05ce1d51716f458ad8c1"
 metafile = true
@@ -265,6 +270,11 @@ hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "bef0d78723bcf15335544a175244cb43416a58977e2b7551a7b5200a85af3bfa"
+metafile = true
+
+[[files]]
 file = "mods/invview.pw.toml"
 hash = "80bdecdf7911f4b1b6c57d18717d8f435ae237991efdd4c43c50ba6f42bb2139"
 metafile = true
@@ -320,8 +330,18 @@ hash = "e3559a26146b8657e721e38c9f2b22b1338f22913c0ed4e0fc118ade9f0d6e5c"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "f4db358ab5081831cb84f4d81338b21f0600675ab25b13f8824deecc82d2acc8"
+metafile = true
+
+[[files]]
 file = "mods/minimotd.pw.toml"
 hash = "072589c2436b05489b0e8271d7b2bd51b8e47de9b319541025cd49d412cc6cb1"
+metafile = true
+
+[[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "e3b2dc615d6e4dcc82d7784969a737b8d374d803fe9652682ae9a48c87e2ae10"
 metafile = true
 
 [[files]]
@@ -335,6 +355,11 @@ hash = "51ff93e279e03cb3cd77a5be0df777cdcd975d35b5149180d9dc724e47168c76"
 metafile = true
 
 [[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "7e4721fe2c87159bc563ceb5d9ee08c28f6fcf1019ec9fa63bcd6ba252ac6a9a"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "44f00c1a0e3d4f8717e805c30c862a597e7856472e72637800fd1a38d73fbd08"
 metafile = true
@@ -342,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "4b1b0abcb43696b313acbd111700c4dad8d808bd69a06d0abb10615acacdf16b"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "93e5023b9b45c297a69ee769941b4c6a7f65eeb3f2baa569ad52f3d5aa8de398"
 metafile = true
 
 [[files]]
@@ -357,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/no-portals.pw.toml"
 hash = "fd4f31a4f698ca86091b0fc36914f934ca7e15493d97a2b74282303e427baa41"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "49e60e67eff7854052e260a9747a73bc818901c6be87d92060ea163b11f3b00e"
 metafile = true
 
 [[files]]
@@ -500,6 +535,11 @@ hash = "7835db12ba5059aea539e114876cc498344a5587e4130e2039861731e7003655"
 metafile = true
 
 [[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "5e87caea13a44193abf997de56cf3cab2eb9feb1d8be35e0203f06df3552b9c5"
+metafile = true
+
+[[files]]
 file = "mods/unilib.pw.toml"
 hash = "d25e68bfaa4f0adaf716738827256d0b7d78889852fc6cef667c6c2fe4326526"
 metafile = true
@@ -522,6 +562,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "9855647913717209a9d43d0182ebc8c89a03a74455ee6cffeeafd77374cc193e"
+metafile = true
+
+[[files]]
+file = "mods/weaponsexpanded.pw.toml"
+hash = "4087f717241f6f713c9255a27b1207cfbcc2d466786ef0d1de0259680d119657"
 metafile = true
 
 [[files]]

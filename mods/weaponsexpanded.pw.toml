@@ -1,0 +1,13 @@
+name = "Weapons Expanded"
+filename = "weaponsexpanded_1.21.11_1.8.1_fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8pBLL0kb/versions/DvbtrIv2/weaponsexpanded_1.21.11_1.8.1_fabric.jar"
+hash-format = "sha512"
+hash = "181a88e7a3bb80c96d7aa07393989e1ef890a048651cf60ca3058a9a03a757dac78a767b19b2ebe34f45aaeb46bf54527d5302d619423e03fb8824b6d5e87207"
+
+[update]
+[update.modrinth]
+mod-id = "8pBLL0kb"
+version = "DvbtrIv2"
