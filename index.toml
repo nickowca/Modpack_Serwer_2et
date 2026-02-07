@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "eaa52d6ff1bcb539956d50626085d9185eca346fabcf6b3c176c53192b9958ec"
+hash = "b037ee019f866561f4a3ec4bafda8c33e2b6b57699302199041edd1af3743d5a"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
+hash = "43b8a73c6ede006c2e39a8c1e1f9a4fe164116a99cc2ac96e7af92faa069881f"
 metafile = true
 
 [[files]]
