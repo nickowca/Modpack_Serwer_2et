@@ -190,6 +190,11 @@ hash = "c23a1be7641341478b09c5c4f835b5e024a246f9e8521e92905bcab0d0e8cce0"
 metafile = true
 
 [[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "01b068e883e786511bfc9b2cba0ef3c7af33989104f693515f6de4c6a6c551bd"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "d93c3c494955dfc44e2590ded2ee8414d582e87f2fca00575f08576ae2197d57"
 metafile = true
@@ -257,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "80bdecdf7911f4b1b6c57d18717d8f435ae237991efdd4c43c50ba6f42bb2139"
 metafile = true
 
 [[files]]
@@ -482,6 +492,11 @@ metafile = true
 [[files]]
 file = "mods/unilib.pw.toml"
 hash = "d25e68bfaa4f0adaf716738827256d0b7d78889852fc6cef667c6c2fe4326526"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "03e7ff71a73cf26ace9eda49606f2baa1d78dcac585d494478dd605e06f63ba8"
 metafile = true
 
 [[files]]
