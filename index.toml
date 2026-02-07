@@ -305,11 +305,6 @@ hash = "0fcb21a2580ad82270c404aa36e042926a7f35b0151f785bd6c6afce23e6edc4"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-sqlite-jdbc.pw.toml"
-hash = "9fda89adbc0395cdfcbaef842fc95e553d87aebcab121a10c691f1e37cfbefa4"
-metafile = true
-
-[[files]]
 file = "mods/modflared.pw.toml"
 hash = "54d730390867027aa0d4de585d8245377b91e96395e3fef755c4127003b92a3b"
 metafile = true
@@ -447,6 +442,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "ee4de268578f62d89243d138646b4fa5573d9c1418e5346a2767b548c7fca573"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "8ae1e40f03712b8fbaa828861b1c6769b5da99f638774791fcc8fe4f7256c125"
 metafile = true
 
 [[files]]
