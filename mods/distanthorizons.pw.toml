@@ -1,5 +1,5 @@
 name = "Distant Horizons"
-side = "client"
+side = "both"
 filename = "DistantHorizons-2.4.5-b-1.21.11-fabric-neoforge.jar"
 
 [update.modrinth]
