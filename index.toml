@@ -315,6 +315,11 @@ hash = "0fcb21a2580ad82270c404aa36e042926a7f35b0151f785bd6c6afce23e6edc4"
 metafile = true
 
 [[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "e3559a26146b8657e721e38c9f2b22b1338f22913c0ed4e0fc118ade9f0d6e5c"
+metafile = true
+
+[[files]]
 file = "mods/minimotd.pw.toml"
 hash = "072589c2436b05489b0e8271d7b2bd51b8e47de9b319541025cd49d412cc6cb1"
 metafile = true
@@ -517,6 +522,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "9855647913717209a9d43d0182ebc8c89a03a74455ee6cffeeafd77374cc193e"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "71c91341cc8ac8773b839d7ca822d8d7084c11a3012e13a10ef0de6daff93796"
 metafile = true
 
 [[files]]
