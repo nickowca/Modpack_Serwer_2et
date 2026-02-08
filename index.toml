@@ -125,6 +125,11 @@ hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "d8e2eb843f684b6abe48010c4ebf3e1300bd0fe9a4132e2744757d850171f4b7"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "9ea9b006f32225bd6ca153e16d85c040cb92d126db26eb8d5a22a0233ef25aa7"
 metafile = true
@@ -215,6 +220,16 @@ hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "fcdaaad3ac86edfe8b2dd506b9e1303c70636251fc275f21f7a4a2efa324a8e8"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "7d134ff1f48d4eaca079c8669560faaf7b75230705d74109e1df26dee67d95c4"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "87dea750205910be6e5184ca4cdc3a3f2f439364435408b8e7a1036fdf3c28fc"
 metafile = true
@@ -272,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "bef0d78723bcf15335544a175244cb43416a58977e2b7551a7b5200a85af3bfa"
+metafile = true
+
+[[files]]
+file = "mods/invmove.pw.toml"
+hash = "7557b57fc8b301bb61bdc9c6efc1e1e020a59a02562166754be6e9c6fc42188d"
 metafile = true
 
 [[files]]
@@ -405,6 +425,11 @@ hash = "2b4d384e240128d2553c46b95a48a6dc25e42e95bf4f4271ed3cb4f1106db41d"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "c5cf55b4ec0c694443ae7769d9d96b7ae69aef8a94e7d74f884014b7f5102234"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "51c5dc79381f5e788aa78211c82a8294ec8b1313a5f8cc584fba1e62664dea81"
 metafile = true
@@ -450,6 +475,21 @@ hash = "f6cd3f83b4a4db5abf5aa33c0f637e01af16e537a84f20feb14f509d42bc40cd"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
+metafile = true
+
+[[files]]
+file = "mods/scorchful.pw.toml"
+hash = "308d431bd57abd7d1b07c103fd0725535f4b15ccfc08889511dafce58b357c44"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "77f6ba8f063840c0d8a58bba2cedc2743d136c1d51cdd28d3506d19e167e08d5"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "16a351dac4db6e5b8035f56090710a227d33482797ef5bcc09a367099304be74"
 metafile = true
@@ -472,6 +512,11 @@ metafile = true
 [[files]]
 file = "mods/smoke-suppression.pw.toml"
 hash = "76c6a6bcaf6820a678c0d72308468fef3eb5c30fc2695dc69339efbed272b76c"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scrolling-refurbished.pw.toml"
+hash = "fdb85010af22aae054add53b2e0f69bc9a9fa057f47680acf1ad9b576405752e"
 metafile = true
 
 [[files]]
@@ -552,6 +597,11 @@ metafile = true
 [[files]]
 file = "mods/veinminer.pw.toml"
 hash = "fc7bfaa3cc133f968b1a4ee6f0635c2980fb277870aec45e9d68ff313b0d1d9d"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "d44e2b5db1fb0c90d9ec5f25a153a437ea71c59a499491b6d639fff69cec8ba4"
 metafile = true
 
 [[files]]
